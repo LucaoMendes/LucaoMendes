@@ -25,7 +25,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
           
 </a>
   
-![Snake animation](https://github.com/LucaoMendes/LucaoMendes/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 
 <!--

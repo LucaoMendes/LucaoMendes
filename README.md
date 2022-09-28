@@ -9,6 +9,9 @@
 </div>
 <hr/>
 
+
+## ![Snake animation](https://github.com/LucaoMendes/LucaoMendes/blob/output/github-contribution-grid-snake.svg)
+
 ### Tools and Technologies
 
 ###### Programming language

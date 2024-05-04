@@ -1,3 +1,4 @@
+## ![Profile Contrib](./hello.svg)
 ### Hi there 👋
 
 - 🚀  Developer in development
@@ -8,8 +9,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucaoMendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
-## ![Snake animation](https://github.com/LucaoMendes/LucaoMendes/blob/output/github-contribution-grid-snake.svg)
+## ![Profile Contrib](./profile-3d-contrib/profile-night-green.svg)
 
 ### Tools and Technologies
 
